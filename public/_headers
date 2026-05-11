@@ -1,0 +1,24 @@
+# Cloudflare Pages headers
+# https://developers.cloudflare.com/pages/configuration/headers/
+
+# ffmpeg-core wasm + js: immutable, year-long cache (filename-versioned content)
+/ffmpeg-core/*
+  Cache-Control: public, max-age=31536000, immutable
+  Cross-Origin-Resource-Policy: same-origin
+
+# Next.js hashed assets: immutable
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Static images
+/og.png
+  Cache-Control: public, max-age=604800
+/favicon.ico
+  Cache-Control: public, max-age=604800
+
+# HTML pages: short cache, must-revalidate so we can ship updates fast
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()

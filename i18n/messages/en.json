@@ -1,0 +1,77 @@
+{
+  "site": {
+    "name": "VideoToAudioConverter",
+    "tagline": "Free video to audio converter — runs in your browser, files never leave your device"
+  },
+  "nav": {
+    "home": "Home",
+    "formats": "Formats",
+    "howItWorks": "How it works",
+    "privacy": "Privacy",
+    "github": "GitHub"
+  },
+  "hero": {
+    "h1": "Convert video to audio — free, fast, private",
+    "sub": "100% local processing in your browser. No upload, no signup, no file size limit. MP4, MOV, MKV, WebM, AVI to MP3, WAV, AAC, M4A, FLAC, OGG.",
+    "ctaStart": "Pick a video to start",
+    "ctaDrop": "Drop a video here, or click to choose"
+  },
+  "trust": {
+    "local": "100% local — files never uploaded",
+    "free": "Free forever, no ads, no signup",
+    "open": "Open source on GitHub",
+    "nolimit": "No file size cap on supported formats"
+  },
+  "converter": {
+    "selectFile": "Choose a video file",
+    "outputFormat": "Output format",
+    "quality": "Quality",
+    "qualityHigh": "High (320 kbps)",
+    "qualityMedium": "Standard (192 kbps)",
+    "qualityLow": "Compact (128 kbps)",
+    "qualityLossless": "Lossless (original)",
+    "start": "Extract audio",
+    "cancel": "Cancel",
+    "preparing": "Preparing engine…",
+    "loadingEngine": "Loading converter (this only happens once)…",
+    "extracting": "Extracting audio…",
+    "done": "Done",
+    "download": "Download {filename}",
+    "convertAnother": "Convert another file",
+    "errorUnsupported": "This file format isn't supported yet.",
+    "errorTooLarge": "File exceeds 4 GB browser limit. Try a smaller file or use a desktop tool.",
+    "errorGeneric": "Something went wrong while converting. Please try again.",
+    "warnLargeFile": "Large file ({size}). Conversion may take a while.",
+    "engineFast": "Fast engine",
+    "engineCompat": "Compatibility engine",
+    "ready": "Ready to convert"
+  },
+  "steps": {
+    "title": "How it works",
+    "s1Title": "1. Pick your video",
+    "s1Body": "Drag and drop, or click to choose. Everything stays on your device.",
+    "s2Title": "2. Choose output format",
+    "s2Body": "MP3, WAV, AAC, M4A, FLAC, or OGG — set bitrate if you care.",
+    "s3Title": "3. Download the audio",
+    "s3Body": "Extraction runs in your browser. Save the file when done."
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "q1": "Is my video uploaded to a server?",
+    "a1": "No. Everything runs inside your browser using WebAssembly. Your video never leaves your device.",
+    "q2": "Is there a file size limit?",
+    "a2": "For MP4, MOV, MKV, and WebM the fast engine streams the file and works with multi-gigabyte inputs. For older containers (AVI, FLV, WMV) the fallback engine is capped around 2 GB.",
+    "q3": "What audio formats can I export to?",
+    "a3": "MP3, WAV, AAC, M4A, FLAC, OGG, and Opus. Use lossless (WAV/FLAC) if you need the original audio quality.",
+    "q4": "Does it work on iPhone or Android?",
+    "a4": "Yes — modern Safari and Chrome on mobile both work. Very long videos may slow down on low-RAM phones.",
+    "q5": "Is this free? Where's the catch?",
+    "a5": "Completely free. No ads, no account, no upload. The site is open source — feel free to read or fork the code."
+  },
+  "footer": {
+    "copyright": "© {year} VideoToAudioConverter.org — built with care, runs entirely in your browser.",
+    "privacy": "Privacy",
+    "about": "About",
+    "github": "Source code"
+  }
+}

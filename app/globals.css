@@ -1,0 +1,66 @@
+@import "tailwindcss";
+@import "./theme.css";
+
+@custom-variant dark (&:is(.dark *));
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.005em;
+}
+
+* {
+  border-color: var(--border);
+}
+
+/* Bento card surfaces — hairline border, very soft shadow, generous radius */
+.bento {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 1.5rem;
+  box-shadow:
+    0 1px 2px -1px rgb(0 0 0 / 0.04),
+    0 12px 32px -16px rgb(0 0 0 / 0.06);
+}
+
+.bento-accent {
+  background: var(--foreground);
+  color: var(--background);
+  border: 1px solid var(--foreground);
+  border-radius: 1.5rem;
+}
+
+.bento-tile {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 1.25rem;
+}
+
+.hairline {
+  border: 1px solid var(--border);
+}
+
+/* Soft section wash for separating bento blocks from page background */
+.section-wash {
+  background: var(--muted);
+}
+
+/* Waveform decoration used in product stage mock */
+.wave-bar {
+  background-color: var(--foreground);
+  width: 3px;
+  border-radius: 9999px;
+}
+
+/* Tabular numbers for stat readouts */
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
