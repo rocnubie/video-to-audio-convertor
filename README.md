@@ -65,6 +65,16 @@
 └──────────────────────────────────────────────────────────────────┘
 ```
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org">
+    <img src="https://videotoaudioconverter.org/screenshots/01-hero.webp" alt="Video to audio converter — free online tool to convert MP4, MOV, MKV, WebM, AVI to MP3, WAV, AAC, M4A, FLAC, OGG, Opus directly in the browser with zero upload" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Drop a video, pick a format, hit convert — your file never leaves your device.</em>
+</p>
+
 ### Why Another Video to Audio Converter?
 
 | Feature | VideoToAudioConverter.org | Typical online converter |
@@ -89,6 +99,17 @@
 - **Quality presets** → High (320 kbps), Medium (192 kbps), Low (128 kbps), Lossless
 - **Real-time progress bar** with stage labels (demux → decode → encode → mux)
 - **Instant download** — audio blob served from memory, never touches a server
+- **Fully responsive** — works on phones, tablets, and desktops
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org">
+    <img src="https://videotoaudioconverter.org/screenshots/07-mobile-hero.webp" alt="Video to audio converter mobile view — convert MP4 to MP3 on iPhone Safari and Android Chrome, no app install required" width="320" />
+  </a>
+</p>
+
+<p align="center">
+  <em>The converter is mobile-first: works in iPhone Safari and Android Chrome without installing anything.</em>
+</p>
 
 ### Privacy-First Architecture
 
@@ -120,6 +141,16 @@ Dedicated, fully-translated landing pages for every popular **video to audio** c
 | AVI to MP3 Converter | [videotoaudioconverter.org/en/avi-to-mp3](https://videotoaudioconverter.org/en/avi-to-mp3) |
 
 Each page has unique copy, JSON-LD schemas (SoftwareApplication, HowTo, FAQPage), and Open Graph tags — no duplicate content.
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/mp4-to-mp3">
+    <img src="https://videotoaudioconverter.org/screenshots/06-format-page.webp" alt="MP4 to MP3 converter landing page — free online video to audio conversion, no upload required, 320 kbps quality" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Every popular conversion pair gets its own SEO-optimised landing page — <a href="https://videotoaudioconverter.org/mp4-to-mp3">MP4 → MP3</a>, <a href="https://videotoaudioconverter.org/mov-to-mp3">MOV → MP3</a>, <a href="https://videotoaudioconverter.org/mkv-to-mp3">MKV → MP3</a>, <a href="https://videotoaudioconverter.org/webm-to-mp3">WebM → MP3</a>, <a href="https://videotoaudioconverter.org/avi-to-mp3">AVI → MP3</a>.</em>
+</p>
 
 ### Internationalisation
 
@@ -529,6 +560,12 @@ To add a new **video to audio** conversion landing page (e.g., `flv-to-mp3`):
 
 ## 🛡️ Privacy & Security
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/privacy">
+    <img src="https://videotoaudioconverter.org/screenshots/04-privacy-story.webp" alt="Privacy-first video to audio converter — DevTools-provable zero uploads, runs offline after first page load, no retention no logs, cookieless analytics, GDPR safe" width="900" />
+  </a>
+</p>
+
 - **No file uploads** — conversion runs entirely in the browser via WebCodecs / FFmpeg WASM
 - **No cookies** — Plausible is cookieless; no consent banner needed
 - **No localStorage** — nothing is persisted between sessions
@@ -582,6 +619,12 @@ Each cell is an explicit, indexable conversion path. Drop a file of the row form
 ## 🎯 Who Uses a Video to Audio Converter? (Use Cases)
 
 People search for a **video to audio converter** for very different reasons. We optimised the UI, copy, and landing pages around these scenarios. You can try all of them at **[videotoaudioconverter.org](https://videotoaudioconverter.org)**.
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org">
+    <img src="https://videotoaudioconverter.org/screenshots/02-use-cases.webp" alt="Video to audio converter use cases — podcast and interview recordings, online classes and lecture archives, iPhone and Android screen recordings, movie clips and archive footage" width="900" />
+  </a>
+</p>
 
 ### 🎙️ Podcasters & Audio Producers
 
@@ -638,6 +681,12 @@ People search for a **video to audio converter** for very different reasons. We 
 
 These are the long-tail questions people type into Google when looking for a video to audio converter. Each is answered in the FAQ on the [homepage](https://videotoaudioconverter.org) and in the per-format landing pages.
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/#faq">
+    <img src="https://videotoaudioconverter.org/screenshots/05-faq.webp" alt="Video to audio converter FAQ — supported input formats MP4 MOV MKV WebM AVI, output codecs MP3 WAV AAC M4A FLAC OGG Opus, file size limits, iPhone iPad Android Mac Windows support" width="900" />
+  </a>
+</p>
+
 ### How do I convert MP4 to MP3 for free online?
 Go to **[videotoaudioconverter.org/en/mp4-to-mp3](https://videotoaudioconverter.org/en/mp4-to-mp3)**, drop your MP4 file, pick "MP3" as the output format, click Convert, and download the file. No upload, no signup, no watermark, no file-size limit.
 
@@ -677,6 +726,12 @@ After the first page load at **[videotoaudioconverter.org](https://videotoaudioc
 ---
 
 ## 🏆 How VideoToAudioConverter.org Compares
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org">
+    <img src="https://videotoaudioconverter.org/screenshots/03-comparison.webp" alt="Free video to audio converter comparison table — VideoToAudioConverter.org versus CloudConvert, Zamzar, 123apps, Convertio. No upload, no file size cap, unlimited daily conversions, no signup, no ads, MIT open source" width="900" />
+  </a>
+</p>
 
 | Capability | [VideoToAudioConverter.org](https://videotoaudioconverter.org) | FreeConvert | Convertio | OnlineAudioConverter | CloudConvert |
 |---|---|---|---|---|---|

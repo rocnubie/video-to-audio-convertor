@@ -65,6 +65,19 @@
 └──────────────────────────────────────────────────────────────────┘
 ```
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ko/">
+    <img src="https://videotoaudioconverter.org/screenshots/01-hero.webp" alt="Video to audio converter — free online tool to convert MP4, MOV, MKV, WebM, AVI to MP3, WAV, AAC, M4A, FLAC, OGG, Opus directly in the browser with zero upload" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ko/">
+    <img src="https://videotoaudioconverter.org/screenshots/07-mobile-hero.webp" alt="Video to audio converter mobile view — works on iPhone Safari and Android Chrome, no app install required" width="320" />
+  </a>
+</p>
+
+
 ### 왜 또 다른 동영상 오디오 변환기인가요?
 
 | 기능 | VideoToAudioConverter.org | 일반적인 온라인 변환기 |
@@ -529,6 +542,13 @@ npx serve out    # 로컬 미리보기
 
 ## 🛡️ 개인정보 및 보안
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ko/privacy">
+    <img src="https://videotoaudioconverter.org/screenshots/04-privacy-story.webp" alt="Privacy-first video to audio converter — DevTools-provable zero uploads, runs offline after first page load, no retention no logs, cookieless analytics, GDPR safe" width="900" />
+  </a>
+</p>
+
+
 - **파일 업로드 없음** — 변환은 WebCodecs / FFmpeg WASM을 통해 브라우저 내에서 완전히 실행됩니다
 - **쿠키 없음** — Plausible은 쿠키리스; 동의 배너 불필요
 - **localStorage 없음** — 세션 간에 아무것도 저장되지 않습니다
@@ -580,6 +600,13 @@ npx serve out    # 로컬 미리보기
 ---
 
 ## 🎯 누가 동영상 오디오 변환기를 사용하나요? (사용 사례)
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ko/">
+    <img src="https://videotoaudioconverter.org/screenshots/02-use-cases.webp" alt="Video to audio converter use cases — podcast and interview recordings, online classes and lecture archives, iPhone and Android screen recordings, movie clips and archive footage" width="900" />
+  </a>
+</p>
+
 
 사람들은 매우 다양한 이유로 **동영상 오디오 변환기**를 검색합니다. 저희는 이러한 시나리오를 중심으로 UI, 본문, 랜딩 페이지를 최적화했습니다. 모두 **[videotoaudioconverter.org](https://videotoaudioconverter.org)** 에서 사용해 보실 수 있습니다.
 
@@ -636,6 +663,13 @@ npx serve out    # 로컬 미리보기
 
 ## ❓ 자주 묻는 질문
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ko/#faq">
+    <img src="https://videotoaudioconverter.org/screenshots/05-faq.webp" alt="Video to audio converter FAQ — supported input formats MP4 MOV MKV WebM AVI, output codecs MP3 WAV AAC M4A FLAC OGG Opus, file size limits, iPhone iPad Android Mac Windows support" width="900" />
+  </a>
+</p>
+
+
 이러한 질문은 동영상 오디오 변환기를 찾을 때 사람들이 Google에 입력하는 롱테일 질문입니다. 각 질문은 [홈페이지](https://videotoaudioconverter.org)의 FAQ와 포맷별 랜딩 페이지에서 답변됩니다.
 
 ### MP4를 MP3로 온라인에서 무료로 변환하는 방법은?
@@ -677,6 +711,12 @@ iPhone 동영상은 보통 `.MOV` (H.264 + AAC) 또는 `.MP4`입니다. **[video
 ---
 
 ## 🏆 VideoToAudioConverter.org 비교
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ko/">
+    <img src="https://videotoaudioconverter.org/screenshots/03-comparison.webp" alt="Free video to audio converter comparison table — VideoToAudioConverter.org versus CloudConvert, Zamzar, 123apps, Convertio. No upload, no file size cap, unlimited daily conversions, no signup, no ads, MIT open source" width="900" />
+  </a>
+</p>
 
 | 기능 | [VideoToAudioConverter.org](https://videotoaudioconverter.org) | FreeConvert | Convertio | OnlineAudioConverter | CloudConvert |
 |---|---|---|---|---|---|

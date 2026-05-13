@@ -65,6 +65,19 @@
 └──────────────────────────────────────────────────────────────────┘
 ```
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ar/">
+    <img src="https://videotoaudioconverter.org/screenshots/01-hero.webp" alt="Video to audio converter — free online tool to convert MP4, MOV, MKV, WebM, AVI to MP3, WAV, AAC, M4A, FLAC, OGG, Opus directly in the browser with zero upload" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ar/">
+    <img src="https://videotoaudioconverter.org/screenshots/07-mobile-hero.webp" alt="Video to audio converter mobile view — works on iPhone Safari and Android Chrome, no app install required" width="320" />
+  </a>
+</p>
+
+
 ### لماذا محول فيديو إلى صوت آخر؟
 
 | الميزة | VideoToAudioConverter.org | المحولات الإلكترونية النموذجية |
@@ -529,6 +542,13 @@ npx serve out    # preview locally
 
 ## 🛡️ الخصوصية والأمان
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ar/privacy">
+    <img src="https://videotoaudioconverter.org/screenshots/04-privacy-story.webp" alt="Privacy-first video to audio converter — DevTools-provable zero uploads, runs offline after first page load, no retention no logs, cookieless analytics, GDPR safe" width="900" />
+  </a>
+</p>
+
+
 - **بدون رفع للملفات** — يجري التحويل بالكامل في المتصفح عبر WebCodecs / FFmpeg WASM
 - **بدون ملفات تعريف ارتباط** — Plausible خالٍ من الكوكيز؛ لا حاجة لشريط موافقة
 - **بدون localStorage** — لا يُحفظ أي شيء بين الجلسات
@@ -580,6 +600,13 @@ npx serve out    # preview locally
 ---
 
 ## 🎯 من يستخدم محول الفيديو إلى صوت؟ (حالات الاستخدام)
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ar/">
+    <img src="https://videotoaudioconverter.org/screenshots/02-use-cases.webp" alt="Video to audio converter use cases — podcast and interview recordings, online classes and lecture archives, iPhone and Android screen recordings, movie clips and archive footage" width="900" />
+  </a>
+</p>
+
 
 يبحث الناس عن **محول فيديو إلى صوت** لأسباب مختلفة جداً. لقد قمنا بتحسين الواجهة والمحتوى وصفحات الهبوط حول هذه السيناريوهات. يمكنك تجربتها جميعاً على **[videotoaudioconverter.org](https://videotoaudioconverter.org)**.
 
@@ -636,6 +663,13 @@ npx serve out    # preview locally
 
 ## ❓ الأسئلة الشائعة (مع الإجابات)
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ar/#faq">
+    <img src="https://videotoaudioconverter.org/screenshots/05-faq.webp" alt="Video to audio converter FAQ — supported input formats MP4 MOV MKV WebM AVI, output codecs MP3 WAV AAC M4A FLAC OGG Opus, file size limits, iPhone iPad Android Mac Windows support" width="900" />
+  </a>
+</p>
+
+
 هذه هي أسئلة الذيل الطويل التي يكتبها الناس في جوجل عند البحث عن محول فيديو إلى صوت. كل سؤال تتم الإجابة عنه في قسم الأسئلة الشائعة في [الصفحة الرئيسية](https://videotoaudioconverter.org) وفي صفحات الهبوط الخاصة بكل صيغة.
 
 ### كيف أحول MP4 إلى MP3 مجاناً عبر الإنترنت؟
@@ -677,6 +711,12 @@ AVI صيغة قديمة من ويندوز. افتح **[videotoaudioconverter.org
 ---
 
 ## 🏆 كيف يقارَن VideoToAudioConverter.org بغيره
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ar/">
+    <img src="https://videotoaudioconverter.org/screenshots/03-comparison.webp" alt="Free video to audio converter comparison table — VideoToAudioConverter.org versus CloudConvert, Zamzar, 123apps, Convertio. No upload, no file size cap, unlimited daily conversions, no signup, no ads, MIT open source" width="900" />
+  </a>
+</p>
 
 | القدرة | [VideoToAudioConverter.org](https://videotoaudioconverter.org) | FreeConvert | Convertio | OnlineAudioConverter | CloudConvert |
 |---|---|---|---|---|---|

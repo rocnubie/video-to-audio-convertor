@@ -65,6 +65,19 @@
 └──────────────────────────────────────────────────────────────────┘
 ```
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/pt/">
+    <img src="https://videotoaudioconverter.org/screenshots/01-hero.webp" alt="Video to audio converter — free online tool to convert MP4, MOV, MKV, WebM, AVI to MP3, WAV, AAC, M4A, FLAC, OGG, Opus directly in the browser with zero upload" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/pt/">
+    <img src="https://videotoaudioconverter.org/screenshots/07-mobile-hero.webp" alt="Video to audio converter mobile view — works on iPhone Safari and Android Chrome, no app install required" width="320" />
+  </a>
+</p>
+
+
 ### Por que mais um conversor de vídeo para áudio?
 
 | Recurso | VideoToAudioConverter.org | Conversor online típico |
@@ -531,6 +544,13 @@ Para adicionar uma nova página de destino de conversão de **vídeo para áudio
 
 ## 🛡️ Privacidade e segurança
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/pt/privacy">
+    <img src="https://videotoaudioconverter.org/screenshots/04-privacy-story.webp" alt="Privacy-first video to audio converter — DevTools-provable zero uploads, runs offline after first page load, no retention no logs, cookieless analytics, GDPR safe" width="900" />
+  </a>
+</p>
+
+
 - **Sem uploads de arquivo** — a conversão roda inteiramente no navegador via WebCodecs / FFmpeg WASM
 - **Sem cookies** — o Plausible não usa cookies; nenhum banner de consentimento necessário
 - **Sem localStorage** — nada é persistido entre sessões
@@ -582,6 +602,13 @@ Cada célula é um caminho de conversão explícito e indexável. Solte um arqui
 ---
 
 ## 🎯 Quem usa um conversor de vídeo para áudio? (casos de uso)
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/pt/">
+    <img src="https://videotoaudioconverter.org/screenshots/02-use-cases.webp" alt="Video to audio converter use cases — podcast and interview recordings, online classes and lecture archives, iPhone and Android screen recordings, movie clips and archive footage" width="900" />
+  </a>
+</p>
+
 
 As pessoas procuram um **conversor de vídeo para áudio** por motivos muito diferentes. Otimizamos a UI, o texto e as páginas de destino em torno desses cenários. Você pode testar todos eles em **[videotoaudioconverter.org](https://videotoaudioconverter.org)**.
 
@@ -638,6 +665,13 @@ As pessoas procuram um **conversor de vídeo para áudio** por motivos muito dif
 
 ## ❓ Perguntas comuns (respondidas)
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/pt/#faq">
+    <img src="https://videotoaudioconverter.org/screenshots/05-faq.webp" alt="Video to audio converter FAQ — supported input formats MP4 MOV MKV WebM AVI, output codecs MP3 WAV AAC M4A FLAC OGG Opus, file size limits, iPhone iPad Android Mac Windows support" width="900" />
+  </a>
+</p>
+
+
 Estas são as perguntas long-tail que as pessoas digitam no Google ao procurar um conversor de vídeo para áudio. Cada uma é respondida no FAQ da [página inicial](https://videotoaudioconverter.org) e nas páginas de destino por formato.
 
 ### Como converter MP4 para MP3 grátis online?
@@ -679,6 +713,12 @@ Após a primeira carga da página em **[videotoaudioconverter.org](https://video
 ---
 
 ## 🏆 Como o VideoToAudioConverter.org se compara
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/pt/">
+    <img src="https://videotoaudioconverter.org/screenshots/03-comparison.webp" alt="Free video to audio converter comparison table — VideoToAudioConverter.org versus CloudConvert, Zamzar, 123apps, Convertio. No upload, no file size cap, unlimited daily conversions, no signup, no ads, MIT open source" width="900" />
+  </a>
+</p>
 
 | Capacidade | [VideoToAudioConverter.org](https://videotoaudioconverter.org) | FreeConvert | Convertio | OnlineAudioConverter | CloudConvert |
 |---|---|---|---|---|---|

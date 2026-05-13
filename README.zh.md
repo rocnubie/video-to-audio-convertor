@@ -65,6 +65,19 @@
 └──────────────────────────────────────────────────────────────────┘
 ```
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/zh/">
+    <img src="https://videotoaudioconverter.org/screenshots/01-hero.webp" alt="Video to audio converter — free online tool to convert MP4, MOV, MKV, WebM, AVI to MP3, WAV, AAC, M4A, FLAC, OGG, Opus directly in the browser with zero upload" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/zh/">
+    <img src="https://videotoaudioconverter.org/screenshots/07-mobile-hero.webp" alt="Video to audio converter mobile view — works on iPhone Safari and Android Chrome, no app install required" width="320" />
+  </a>
+</p>
+
+
 ### 为什么还需要一款视频转音频转换器？
 
 | 特性 | VideoToAudioConverter.org | 典型的在线转换器 |
@@ -529,6 +542,13 @@ npx serve out    # 本地预览
 
 ## 🛡️ 隐私与安全
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/zh/privacy">
+    <img src="https://videotoaudioconverter.org/screenshots/04-privacy-story.webp" alt="Privacy-first video to audio converter — DevTools-provable zero uploads, runs offline after first page load, no retention no logs, cookieless analytics, GDPR safe" width="900" />
+  </a>
+</p>
+
+
 - **不上传文件** —— 转换完全在浏览器中通过 WebCodecs / FFmpeg WASM 完成
 - **无 Cookie** —— Plausible 不使用 Cookie；无需弹出同意横幅
 - **无 localStorage** —— 会话之间不持久化任何内容
@@ -580,6 +600,13 @@ npx serve out    # 本地预览
 ---
 
 ## 🎯 谁会用视频转音频转换器？（典型场景）
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/zh/">
+    <img src="https://videotoaudioconverter.org/screenshots/02-use-cases.webp" alt="Video to audio converter use cases — podcast and interview recordings, online classes and lecture archives, iPhone and Android screen recordings, movie clips and archive footage" width="900" />
+  </a>
+</p>
+
 
 人们搜索**视频转音频转换器**的原因千差万别。我们围绕以下场景优化了 UI、文案和落地页。所有这些场景都可以在 **[videotoaudioconverter.org](https://videotoaudioconverter.org/zh/)** 上亲身体验。
 
@@ -636,6 +663,13 @@ npx serve out    # 本地预览
 
 ## ❓ 常见问题（已解答）
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/zh/#faq">
+    <img src="https://videotoaudioconverter.org/screenshots/05-faq.webp" alt="Video to audio converter FAQ — supported input formats MP4 MOV MKV WebM AVI, output codecs MP3 WAV AAC M4A FLAC OGG Opus, file size limits, iPhone iPad Android Mac Windows support" width="900" />
+  </a>
+</p>
+
+
 下面是人们在 Google 上搜索视频转音频转换器时常输入的长尾问题。每个问题都能在[首页](https://videotoaudioconverter.org/zh/) FAQ 与各格式落地页中找到答案。
 
 ### 如何在线免费将 MP4 转换为 MP3？
@@ -677,6 +711,12 @@ iPhone 视频通常是 `.MOV`（H.264 + AAC）或 `.MP4`。打开 **[videotoaudi
 ---
 
 ## 🏆 VideoToAudioConverter.org 与同类对比
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/zh/">
+    <img src="https://videotoaudioconverter.org/screenshots/03-comparison.webp" alt="Free video to audio converter comparison table — VideoToAudioConverter.org versus CloudConvert, Zamzar, 123apps, Convertio. No upload, no file size cap, unlimited daily conversions, no signup, no ads, MIT open source" width="900" />
+  </a>
+</p>
 
 | 能力 | [VideoToAudioConverter.org](https://videotoaudioconverter.org/zh/) | FreeConvert | Convertio | OnlineAudioConverter | CloudConvert |
 |---|---|---|---|---|---|

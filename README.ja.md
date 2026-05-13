@@ -65,6 +65,19 @@
 └──────────────────────────────────────────────────────────────────┘
 ```
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ja/">
+    <img src="https://videotoaudioconverter.org/screenshots/01-hero.webp" alt="Video to audio converter — free online tool to convert MP4, MOV, MKV, WebM, AVI to MP3, WAV, AAC, M4A, FLAC, OGG, Opus directly in the browser with zero upload" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ja/">
+    <img src="https://videotoaudioconverter.org/screenshots/07-mobile-hero.webp" alt="Video to audio converter mobile view — works on iPhone Safari and Android Chrome, no app install required" width="320" />
+  </a>
+</p>
+
+
 ### なぜもうひとつの動画から音声への変換ツールが必要なのか？
 
 | 機能 | VideoToAudioConverter.org | 一般的なオンライン変換ツール |
@@ -529,6 +542,13 @@ npx serve out    # preview locally
 
 ## 🛡️ プライバシーとセキュリティ
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ja/privacy">
+    <img src="https://videotoaudioconverter.org/screenshots/04-privacy-story.webp" alt="Privacy-first video to audio converter — DevTools-provable zero uploads, runs offline after first page load, no retention no logs, cookieless analytics, GDPR safe" width="900" />
+  </a>
+</p>
+
+
 - **ファイルのアップロードなし** — 変換は WebCodecs / FFmpeg WASM を介してブラウザ内で完結
 - **Cookie なし** — Plausible は Cookie レス。同意バナー不要
 - **localStorage なし** — セッション間で何も永続化されない
@@ -580,6 +600,13 @@ npx serve out    # preview locally
 ---
 
 ## 🎯 動画から音声への変換ツールは誰が使う？（ユースケース）
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ja/">
+    <img src="https://videotoaudioconverter.org/screenshots/02-use-cases.webp" alt="Video to audio converter use cases — podcast and interview recordings, online classes and lecture archives, iPhone and Android screen recordings, movie clips and archive footage" width="900" />
+  </a>
+</p>
+
 
 人々は様々な理由で**動画から音声への変換ツール**を検索します。UI、コピー、ランディングページはこれらのシナリオに最適化されています。これらすべてを **[videotoaudioconverter.org](https://videotoaudioconverter.org/ja/)** で試すことができます。
 
@@ -636,6 +663,13 @@ npx serve out    # preview locally
 
 ## ❓ よくある質問（回答付き）
 
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ja/#faq">
+    <img src="https://videotoaudioconverter.org/screenshots/05-faq.webp" alt="Video to audio converter FAQ — supported input formats MP4 MOV MKV WebM AVI, output codecs MP3 WAV AAC M4A FLAC OGG Opus, file size limits, iPhone iPad Android Mac Windows support" width="900" />
+  </a>
+</p>
+
+
 これらは動画から音声への変換ツールを探すときに人々が Google に入力するロングテールの質問です。各質問は[ホームページ](https://videotoaudioconverter.org/ja/)の FAQ と各フォーマットランディングページで回答されています。
 
 ### MP4 を MP3 に無料でオンライン変換するには？
@@ -677,6 +711,12 @@ iPhone 動画は通常 `.MOV`（H.264 + AAC）または `.MP4` です。**[video
 ---
 
 ## 🏆 VideoToAudioConverter.org の比較
+
+<p align="center">
+  <a href="https://videotoaudioconverter.org/ja/">
+    <img src="https://videotoaudioconverter.org/screenshots/03-comparison.webp" alt="Free video to audio converter comparison table — VideoToAudioConverter.org versus CloudConvert, Zamzar, 123apps, Convertio. No upload, no file size cap, unlimited daily conversions, no signup, no ads, MIT open source" width="900" />
+  </a>
+</p>
 
 | 機能 | [VideoToAudioConverter.org](https://videotoaudioconverter.org/ja/) | FreeConvert | Convertio | OnlineAudioConverter | CloudConvert |
 |---|---|---|---|---|---|
