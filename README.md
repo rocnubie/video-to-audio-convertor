@@ -540,6 +540,284 @@ Please open an issue before starting large changes so we can discuss direction.
 
 ---
 
+## 🔍 What This Project Solves (Keyword & Use-Case Reference)
+
+VideoToAudioConverter.org is built to be the definitive answer for anyone searching for a **free online video to audio converter** that respects privacy. Below is the complete map of conversion intents and search queries we serve.
+
+### Every Conversion Pair We Support
+
+Each cell is an explicit, indexable conversion path. Drop a file of the row format and pick the column format — that's the conversion.
+
+| Input ↓ / Output → | MP3 | WAV | M4A | AAC | FLAC | OGG | Opus |
+|---|---|---|---|---|---|---|---|
+| **MP4** | mp4 to mp3 | mp4 to wav | mp4 to m4a | mp4 to aac | mp4 to flac | mp4 to ogg | mp4 to opus |
+| **MOV** | mov to mp3 | mov to wav | mov to m4a | mov to aac | mov to flac | mov to ogg | mov to opus |
+| **MKV** | mkv to mp3 | mkv to wav | mkv to m4a | mkv to aac | mkv to flac | mkv to ogg | mkv to opus |
+| **WebM** | webm to mp3 | webm to wav | webm to m4a | webm to aac | webm to flac | webm to ogg | webm to opus |
+| **AVI** | avi to mp3 | avi to wav | avi to m4a | avi to aac | avi to flac | avi to ogg | avi to opus |
+| **FLV** | flv to mp3 | flv to wav | flv to m4a | flv to aac | flv to flac | flv to ogg | flv to opus |
+| **WMV** | wmv to mp3 | wmv to wav | wmv to m4a | wmv to aac | wmv to flac | wmv to ogg | wmv to opus |
+| **3GP** | 3gp to mp3 | 3gp to wav | 3gp to m4a | 3gp to aac | 3gp to flac | 3gp to ogg | 3gp to opus |
+| **MPEG** | mpeg to mp3 | mpeg to wav | mpeg to m4a | mpeg to aac | mpeg to flac | mpeg to ogg | mpeg to opus |
+| **M4V** | m4v to mp3 | m4v to wav | m4v to m4a | m4v to aac | m4v to flac | m4v to ogg | m4v to opus |
+
+> **63 supported conversion paths**, each accessible from the same converter widget. The most popular landing pages (MP4 → MP3, MOV → MP3, MKV → MP3, WebM → MP3, AVI → MP3) ship today; the rest are unlocked via the output-format selector.
+
+---
+
+## 🎯 Who Uses a Video to Audio Converter? (Use Cases)
+
+People search for a **video to audio converter** for very different reasons. We optimised the UI, copy, and landing pages around these scenarios:
+
+### 🎙️ Podcasters & Audio Producers
+
+- **Convert video recordings to MP3** for podcast distribution (Spotify, Apple Podcasts, RSS).
+- Extract audio from a **Zoom recording**, **Google Meet recording**, **Microsoft Teams recording**, **Riverside recording**, or **OBS screen recording**.
+- Strip the visual track from an **interview MP4** and ship audio-only.
+- Convert **video to WAV** or **FLAC** for editing in Audacity, Adobe Audition, Logic Pro, GarageBand, Reaper, or Pro Tools.
+
+### 🎓 Students & Educators
+
+- Convert **lecture recordings to MP3** so they're playable on any phone during commute.
+- Extract audio from **Zoom class recordings**, **Kahoot videos**, **Khan Academy downloads**, or **conference talks**.
+- Turn a **MOV recording** from QuickTime into a portable **M4A** for iPhone.
+- Get audio from **YouTube downloads you already own** for offline review (please respect copyright).
+
+### 📱 Mobile & Social Media Users
+
+- **TikTok video to MP3** — extract a sound clip from a TikTok export.
+- **Instagram Reel video to audio** — pull audio out of a Reel download.
+- **WhatsApp video to MP3** — convert a forwarded video message into audio.
+- **iPhone video to MP3** — turn `.MOV` / `.M4V` recordings from Photos into MP3 for ringtones, voice memos, or audio sharing.
+- **Android video to MP3** — extract audio from MP4 recordings captured on Android cameras.
+
+### 🎵 Music & Media Enthusiasts
+
+- **Convert music video to MP3** for offline playback (on files you own / have rights to).
+- Extract audio from a **concert recording** or **rehearsal video**.
+- Pull a **soundtrack** out of a video for remixing, sampling, or DJ sets.
+- Archive video audio tracks in **lossless FLAC**.
+
+### 💼 Business & Knowledge Workers
+
+- Convert a **meeting recording** to MP3 for transcription with Otter.ai, Rev, Descript, Whisper, or Google's transcription tools.
+- Extract audio from a **webinar** or **company all-hands** for accessibility / archival.
+- Rip audio from a **training video** to send to a transcription service.
+- Save bandwidth by sharing **audio-only versions** of meetings.
+
+### 🎬 Video Editors & Content Creators
+
+- Separate audio from video for **multi-track editing** in Premiere Pro, DaVinci Resolve, Final Cut, CapCut, or VN Editor.
+- Replace the audio track on a video by first **extracting the original**.
+- Generate **audio-only previews** for clients before delivering the final video.
+
+### 🔒 Privacy-Conscious Users
+
+- Convert files **without uploading** to any third-party server.
+- Process **confidential interviews**, **legal depositions**, **medical recordings**, **journalistic source material** without ever leaving the device.
+- Use the converter **offline** after the first page load (works on a plane or in a SCIF).
+- Avoid converters that require **email signup**, **account creation**, or **paid subscriptions**.
+
+---
+
+## ❓ Common Questions (Answered)
+
+These are the long-tail questions people type into Google when looking for a video to audio converter. Each is answered in the FAQ on the homepage and in the per-format landing pages.
+
+### How do I convert MP4 to MP3 for free online?
+Drop your MP4 file onto VideoToAudioConverter.org, pick "MP3" as the output format, click Convert, and download the file. No upload, no signup, no watermark, no file-size limit.
+
+### How do I extract audio from a video without uploading it?
+Use a **client-side video to audio converter** like VideoToAudioConverter.org. The conversion runs in your browser via WebCodecs and FFmpeg WASM — the file never touches a server.
+
+### What is the best free video to audio converter that doesn't upload?
+A browser-based converter using WebCodecs or FFmpeg WASM is the only category that genuinely doesn't upload. VideoToAudioConverter.org is open source so you can verify the claim.
+
+### How do I convert MOV to MP3 on a Mac without iTunes?
+Open VideoToAudioConverter.org in Safari or Chrome, drag the `.MOV` file from Finder onto the dropzone, pick "MP3", download. Works on any macOS version, no iTunes / Music app required.
+
+### How do I convert MKV to MP3 without installing software?
+MKV files are fully supported by the browser engine. Drop the MKV, pick MP3, click Convert. No VLC, no HandBrake, no command line required.
+
+### How do I extract audio from a WebM file?
+WebM uses Opus or Vorbis audio internally. Drop the WebM and choose Opus (for native passthrough quality), MP3 (for compatibility), or WAV (for editing).
+
+### How do I convert AVI to MP3 in 2026?
+AVI is a legacy Windows format. Our FFmpeg WASM fallback engine handles AVI natively — drop the file, pick MP3, done. No old DivX codec installation required.
+
+### How do I convert video to 320 kbps MP3?
+Pick the "High" quality preset — it encodes MP3 at 320 kbps (the maximum quality for MP3).
+
+### How do I extract audio from a video to WAV (lossless)?
+Pick "WAV" as the output format. WAV is uncompressed PCM — ideal for editing in a DAW.
+
+### How do I rip audio from an iPhone video?
+iPhone videos are usually `.MOV` (H.264 + AAC) or `.MP4`. Drop the file from Photos / Files, pick MP3 or M4A, download.
+
+### Is it legal to convert video to audio?
+Converting files you own or have rights to is legal in most jurisdictions. Do not use this tool to circumvent DRM, scrape paid streaming services, or violate copyright. We are not a YouTube downloader.
+
+### Does the converter work offline?
+After the first page load, yes. The FFmpeg WASM binary is cached for a year. You can airplane-mode and still convert files.
+
+---
+
+## 🏆 How VideoToAudioConverter.org Compares
+
+| Capability | VideoToAudioConverter.org | FreeConvert | Convertio | OnlineAudioConverter | CloudConvert |
+|---|---|---|---|---|---|
+| **Free** | ✅ Forever | ✅ Limited | ✅ Limited | ✅ Limited | ✅ Limited |
+| **No upload (client-side)** | ✅ | ❌ | ❌ | ❌ | ❌ |
+| **No file size limit** | ✅ | ❌ 1 GB | ❌ 100 MB | ❌ 2 GB | ❌ 1 GB |
+| **No signup** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **No ads** | ✅ | ❌ | ❌ | ❌ | ❌ |
+| **Works offline** | ✅ | ❌ | ❌ | ❌ | ❌ |
+| **Open source** | ✅ MIT | ❌ | ❌ | ❌ | ❌ |
+| **Unlimited conversions / day** | ✅ | ❌ | ❌ | ❌ | ❌ |
+| **GDPR-safe by design** | ✅ | ⚠️ | ⚠️ | ⚠️ | ⚠️ |
+
+> Comparison reflects publicly-listed pricing tiers and feature gates as of 2026. Verify current limits on each vendor's site.
+
+---
+
+## 🗣️ Multilingual Coverage
+
+The same converter, localised for global audiences. Each translated version is a fully separate SEO surface:
+
+| Locale | URL prefix | Translated phrase for "video to audio converter" |
+|---|---|---|
+| 🇬🇧 English | `/en/` | video to audio converter |
+| 🇫🇷 French | `/fr/` | convertisseur vidéo en audio |
+| 🇪🇸 Spanish | `/es/` *(planned)* | convertidor de video a audio |
+| 🇩🇪 German | `/de/` *(planned)* | Video zu Audio Konverter |
+| 🇮🇹 Italian | `/it/` *(planned)* | convertitore da video ad audio |
+| 🇵🇹 Portuguese | `/pt/` *(planned)* | conversor de vídeo para áudio |
+| 🇨🇳 Chinese (Simplified) | `/zh/` *(planned)* | 视频转音频转换器 |
+| 🇯🇵 Japanese | `/ja/` *(planned)* | 動画から音声に変換 |
+| 🇰🇷 Korean | `/ko/` *(planned)* | 비디오를 오디오로 변환 |
+| 🇷🇺 Russian | `/ru/` *(planned)* | конвертер видео в аудио |
+| 🇸🇦 Arabic | `/ar/` *(planned)* | محول فيديو إلى صوت |
+| 🇮🇳 Hindi | `/hi/` *(planned)* | वीडियो को ऑडियो में बदलें |
+| 🇮🇩 Indonesian | `/id/` *(planned)* | konverter video ke audio |
+| 🇹🇷 Turkish | `/tr/` *(planned)* | video ses dönüştürücü |
+| 🇻🇳 Vietnamese | `/vi/` *(planned)* | chuyển video sang âm thanh |
+
+Adding a locale takes ~30 minutes once translations are ready — see [Internationalisation](#-internationalisation) above.
+
+---
+
+## 📚 Glossary — Audio & Video Formats Explained
+
+A reference for users searching things like "what is the difference between MP3 and M4A" or "which audio format is best for podcasts".
+
+### Output Formats (Audio)
+
+- **MP3** — The universal audio format. Lossy compression. 128 kbps = decent, 192 kbps = good, 320 kbps = excellent. Plays on literally every device made since 1998. Use for: podcasts, streaming, sharing.
+- **WAV** — Uncompressed PCM audio. Huge files (~10 MB per minute) but bit-perfect. Use for: editing in a DAW, mastering, archival sources.
+- **M4A** — MPEG-4 audio container, typically holding AAC. Same quality as MP3 at lower bitrates. Use for: iTunes / Apple Music ecosystem, iPhone ringtones.
+- **AAC** — Advanced Audio Coding. Better quality than MP3 at the same bitrate. Standard for YouTube, Apple, modern broadcasting. Use for: anywhere MP3 works, when you want better quality.
+- **FLAC** — Free Lossless Audio Codec. Compresses without quality loss, ~50% the size of WAV. Use for: audiophile archiving, hi-res music collections.
+- **OGG (Vorbis)** — Open-source lossy format. Better quality than MP3 at the same bitrate. Use for: open-source ecosystems, games, web.
+- **Opus** — The most modern lossy codec. Crushes MP3 / AAC / Vorbis at low bitrates. Use for: voice (podcasts, VoIP), low-bandwidth audio, WebRTC.
+
+### Input Formats (Video)
+
+- **MP4** — H.264 / H.265 video + AAC audio in an MPEG-4 container. The default for almost everything: YouTube downloads, phone recordings, screen captures.
+- **MOV** — Apple QuickTime container. Common from iPhones, Macs, ScreenFlow, Final Cut.
+- **MKV** — Matroska. Open container that can hold any codec. Common for high-quality video downloads, anime, blu-ray rips.
+- **WebM** — Google-backed open container. VP8 / VP9 / AV1 video + Opus / Vorbis audio. Standard for web video (YouTube downloads in WebM, WhatsApp Web).
+- **AVI** — Audio Video Interleave. Legacy Microsoft format from the '90s, still common in older archives and Windows-only software exports.
+- **FLV** — Flash Video. Legacy Adobe Flash format. Rare today but still found in old downloads.
+- **WMV** — Windows Media Video. Microsoft proprietary, common from older Windows Movie Maker / PowerPoint exports.
+- **3GP** — Mobile container from the pre-smartphone era. Still produced by some feature phones and old camcorders.
+- **MPEG (MPG)** — The original MPEG-1 / MPEG-2 video format. Used for old DVDs and TV broadcasts.
+
+---
+
+## 🧭 Search Intent We Match
+
+A non-exhaustive list of the search queries this site is designed to rank for. We index each as primary content somewhere on the site (homepage, format pages, FAQ, or this README).
+
+<details>
+<summary><strong>🔹 Head terms (high volume)</strong></summary>
+
+video to audio converter · video to mp3 · video to mp3 converter · convert video to mp3 · convert video to audio · extract audio from video · mp3 converter · online mp3 converter · free mp3 converter · audio extractor · video sound extractor · rip audio from video · video to audio · audio from video · get audio from video · video to mp3 online · convert video to mp3 free · free video to audio converter · video to mp3 free · online video to audio converter
+
+</details>
+
+<details>
+<summary><strong>🔹 Format-pair conversions (long tail, high intent)</strong></summary>
+
+mp4 to mp3 · mp4 to wav · mp4 to m4a · mp4 to aac · mp4 to flac · mp4 to ogg · mp4 to opus · mov to mp3 · mov to wav · mov to m4a · mov to aac · mkv to mp3 · mkv to wav · mkv to flac · mkv to aac · webm to mp3 · webm to ogg · webm to opus · webm to wav · avi to mp3 · avi to wav · flv to mp3 · wmv to mp3 · 3gp to mp3 · mpeg to mp3 · m4v to mp3
+
+</details>
+
+<details>
+<summary><strong>🔹 Quality / bitrate modifiers</strong></summary>
+
+320 kbps mp3 converter · high quality video to mp3 · lossless video to audio · video to flac · hd audio extractor · cd quality wav extractor · 192 kbps mp3 · 128 kbps mp3 · best quality video to mp3 · convert video to high quality audio
+
+</details>
+
+<details>
+<summary><strong>🔹 Privacy & trust modifiers</strong></summary>
+
+video to mp3 no upload · video converter no upload · client-side video to mp3 · browser-based video converter · offline video to audio · private video to mp3 · secure video converter · no signup video to mp3 · no registration audio extractor · no watermark video to mp3 · ad-free video converter · gdpr-safe video converter · video to mp3 without uploading file · open source video to audio converter
+
+</details>
+
+<details>
+<summary><strong>🔹 Device / platform modifiers</strong></summary>
+
+iphone video to mp3 · android video to mp3 · mac video to mp3 · windows video to mp3 · linux video to mp3 · chromebook video to mp3 · ipad video to audio · safari video to mp3 · chrome video to mp3 · firefox video to mp3 · edge video to mp3 · ios video to mp3 converter
+
+</details>
+
+<details>
+<summary><strong>🔹 Source-specific intent (own files only — we are not a YouTube downloader)</strong></summary>
+
+zoom recording to mp3 · google meet recording to mp3 · teams recording to mp3 · screen recording to mp3 · obs recording to mp3 · tiktok video to mp3 · instagram reel to mp3 · whatsapp video to mp3 · iphone screen recording to mp3 · webinar recording to audio · interview video to mp3 · podcast video to mp3 · lecture recording to mp3
+
+</details>
+
+<details>
+<summary><strong>🔹 How-to long-tail (FAQ / featured snippet targets)</strong></summary>
+
+how to convert mp4 to mp3 · how to extract audio from video · how to convert video to mp3 free · how to convert video to mp3 without software · how to get sound from a video · how to rip audio from a video file · how to convert mov to mp3 on mac · how to convert mkv to mp3 · how to extract audio from webm · how to convert avi to mp3 in 2026 · how to convert video to mp3 on iphone · how to convert video to mp3 on android · how to convert video to mp3 offline · how to convert video to 320 kbps mp3 · how to convert video to wav · how to extract audio from a video without uploading
+
+</details>
+
+<details>
+<summary><strong>🔹 Comparison / alternative</strong></summary>
+
+freeconvert alternative · convertio alternative · cloudconvert alternative · onlineaudioconverter alternative · ytmp3 alternative · zamzar alternative · best free video to audio converter · best browser video to mp3 converter · best private video converter · open source alternative to convertio
+
+</details>
+
+<details>
+<summary><strong>🔹 Multilingual</strong></summary>
+
+convertisseur vidéo en audio · convertidor de video a audio · video zu audio konverter · conversor de vídeo para áudio · convertitore video audio · 视频转音频 · 視頻轉音頻 · 動画 音声 変換 · 비디오 오디오 변환 · конвертер видео в аудио · محول فيديو إلى صوت · वीडियो को ऑडियो में बदलें · konverter video ke audio · video ses dönüştürücü · chuyển video sang âm thanh
+
+</details>
+
+---
+
+## 🌟 In Summary
+
+If you are looking for a **free online video to audio converter** that:
+
+- ✅ Converts **MP4 to MP3**, **MOV to MP3**, **MKV to MP3**, **WebM to MP3**, **AVI to MP3** and 58 more conversion pairs
+- ✅ Runs **100% in your browser** with **zero uploads** and **zero tracking**
+- ✅ Has **no file size limit**, **no signup**, **no ads**, **no watermark**
+- ✅ Supports **MP3, WAV, M4A, AAC, FLAC, OGG, Opus** output at up to **320 kbps** or **lossless**
+- ✅ Works on **Mac, Windows, Linux, Chromebook, iPhone, iPad, Android**
+- ✅ Is **open source**, **GDPR-safe**, and works **offline** after first load
+
+— then bookmark **[videotoaudioconverter.org](https://videotoaudioconverter.org)** and star this repo. ⭐
+
+---
+
 ## 📄 License
 
 - **Source code:** [MIT](LICENSE)
@@ -551,4 +829,10 @@ Please open an issue before starting large changes so we can discuss direction.
 
 <p align="center">
   Built with ❤️ · Hosted on <a href="https://pages.cloudflare.com/">Cloudflare Pages</a> · Analytics by <a href="https://plausible.io/">Plausible</a>
+</p>
+
+<p align="center">
+  <sub>
+    Keywords: video to audio converter · video to mp3 · mp4 to mp3 · mov to mp3 · mkv to mp3 · webm to mp3 · avi to mp3 · extract audio from video · audio extractor · free online · no upload · client-side · open source · WebCodecs · FFmpeg WASM
+  </sub>
 </p>
